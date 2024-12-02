@@ -7,12 +7,12 @@ https://yletv.akamaized.net/hls/live/622366/yletv2fin/playlist.m3u8
 https://live-fi.tvkaista.net/mtv3/live.m3u8
 #EXTINF:0,MTV Uutiset (720p)
 https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
-#EXTINF:0,Sub (720p)
-https://live-fi.tvkaista.net/sub/live.m3u8
+#EXTINF:0,Nelonen (720p)
+https://live-fi.tvkaista.net/nelonen/live.m3u8
 #EXTINF:0,YLE TV Teema & Fem
 https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/playlist.m3u8
-#EXTINF:0,YleX Studio Live (720p)
-https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8
+#EXTINF:0,Sub (720p)
+https://live-fi.tvkaista.net/sub/live.m3u8
 #EXTINF:0,AVA (720p)
 https://live-fi.tvkaista.net/ava/live.m3u8
 #EXTINF:0,Frii (720p)
@@ -25,38 +25,14 @@ https://live-fi.tvkaista.net/kutonen/live.m3u8
 https://live-fi.tvkaista.net/liv/live.m3u8?hd=true
 #EXTINF:0,National Geographic (Finland) (720p)
 https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=videojs
-#EXTINF:0,Nelonen (720p)
-https://live-fi.tvkaista.net/nelonen/live.m3u8
 #EXTINF:-1, CNA International (1080p)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1, DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1, Euronews
-https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1, France 24 English (1080p)
-http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 #EXTINF:-1, NHK World Japan (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1, Taiwan Plus TV (1080p)
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:0, BFM Business (1080p)
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
 #EXTINF:0, TF1 (720p) [Geo-blocked]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
-#EXTINF:0, TF1 Séries Films (720p) [Geo-blocked]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1sf.m3u8
-#EXTINF:0, TFX (720p) [Geo-blocked]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
-#EXTINF:-1, 9XM (480p)
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1, Aaj Tak
-https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1, E 24
-https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
-#EXTINF:-1, MTV HD
-http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
-#EXTINF:-1, Sony Kal (1080p)
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1, BBC News (720p)
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1, BBC Two UK (1080p)
