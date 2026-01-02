@@ -1,53 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="YleTV1"
+#EXTINF: 10,Yle 1
 https://yletv.akamaized.net/hls/live/622365/yletv1fin/playlist.m3u8
-#EXTINF:-1 tvg-id="YleTV2"
+#EXTINF: 10,Yle 2
 https://yletv.akamaized.net/hls/live/622366/yletv2fin/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV3"
+#EXTINF: 10,MTV
 https://live-fi.tvkaista.net/mtv3/live.m3u8
-#EXTINF:-1 tvg-id="Nelonen"
+#EXTINF: 10,Nelonen
 https://live-fi.tvkaista.net/nelonen/live.m3u8
-#EXTINF:-1 tvg-id="YleTeemaFem"
+#EXTINF: 10,Yle FEM
 https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/playlist.m3u8
-#EXTINF:-1 tvg-id="MTVSub"
+#EXTINF: 10,SUB
 https://live-fi.tvkaista.net/sub/live.m3u8
-#EXTINF:-1 tvg-id="MTVUutiset"
+#EXTINF: 10,MTV uutiset
 https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
-#EXTINF:-1 tvg-id="Jim"
+#EXTINF: 10,JIM
 https://live-fi.tvkaista.net/jim/live.m3u8?hd=true
-#EXTINF:-1 tvg-id="Liv"
+#EXTINF: 10,Liv
 https://live-fi.tvkaista.net/liv/live.m3u8?hd=true
-#EXTINF:-1 tvg-id="Hero"
+#EXTINF: 10,Hero
 https://live-fi.tvkaista.net/hero/live.m3u8?hd=true
-#EXTINF:-1 tvg-id="MTVAva"
+#EXTINF: 10,AVA
 https://live-fi.tvkaista.net/ava/live.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic"
+#EXTINF: 10,National
 https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true
-#EXTINF:-1 tvg-id="STARChannel"
+#EXTINF: 10,Star
 https://live-fi.tvkaista.net/star-channel/live.m3u8
-#EXTINF:-1 tvg-id="ViaplayTV"
+#EXTINF: 10,Viaplay
 https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true
-#EXTINF:0, BBC News (720p)
+#EXTINF:20, BBC News (720p)
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
-#EXTINF:0, CNA International (1080p)
+#EXTINF:40, CNA International (1080p)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:0, DW English (1080p)
+#EXTINF:1800, DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:59,Comedy Central HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
 #EXTINF:15,Canal 9 en Français (1080p)
 https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8
-#EXTINF:14,Canal Alpha Jura (1080p)
+#EXTINF:16,Canal Alpha Jura (1080p)
 https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
-#EXTINF:14,Canal Alpha Neuchatel (1080p) [Not 24/7]
+#EXTINF:16,Canal Alpha Neuchatel (1080p) [Not 24/7]
 https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
-#EXTINF:0,Carac 5 SD
+#EXTINF:62,Carac 5 SD
 https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-dash/teleswizz.mpd
-#EXTINF:60,Clubbing TV France
-https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
-#EXTINF:60,Comedy Central HD (1080p)
-https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
-#EXTINF:21810,Couleur 3 (720p)
+#EXTINF:0,Couleur 3 (720p)
 https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
-#EXTINF:28,Die Neue Zeit (576p)
+#EXTINF:31,Die Neue Zeit (576p)
 https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
 #EXTINF:66,Disney Channel (576p)
 https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
